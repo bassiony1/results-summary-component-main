@@ -12,7 +12,7 @@ Interactive card details form
 
 ## Project Description
 
-### This fun project was an excellent way to practice DOM manipulation and form validation while also putting my HTML and CSS skills to the test.
+### This fun project was an excellent way to practice my HTML and CSS skills .
 
 ## Tech Stack
 
@@ -38,6 +38,8 @@ npm run dev
 ## Live Preview
 
 ## Design Source
+
+https://results-summary-component-main-teal-phi.vercel.app/
 
 ### The design was from a Frontend Mentor Challenge .
 
