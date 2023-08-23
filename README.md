@@ -37,9 +37,10 @@ npm run dev
 
 ## Live Preview
 
+https://results-summary-component-main-teal-phi.vercel.app/
+
 ## Design Source
 
-https://results-summary-component-main-teal-phi.vercel.app/
 
 ### The design was from a Frontend Mentor Challenge .
 
